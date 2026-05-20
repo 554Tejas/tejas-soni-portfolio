@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <radialGradient id="g" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#4B8BBE"/>
+      <stop offset="100%" stop-color="#306998"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="100" fill="url(#g)"/>
+  <text x="100" y="85" font-family="monospace" font-size="52" font-weight="bold" fill="#FFD43B" text-anchor="middle">Py</text>
+  <text x="100" y="135" font-family="monospace" font-size="22" fill="#ffffff" text-anchor="middle" opacity="0.9">Python</text>
+</svg>
